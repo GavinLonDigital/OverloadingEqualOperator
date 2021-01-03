@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0E11C8CC-4AC0-4D46-A263-CDE31FCECC81}|Default">
+  <MonoDevelop.Ide.ItemProperties.OverloadingEqualOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OverloadingEqualOperator/Program.cs">
+    <Files>
+      <File FileName="OverloadingEqualOperator/Program.cs" Line="3" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OverloadingEqualOperator" expanded="True">
+            <Node name="OverloadingEqualOperator" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
